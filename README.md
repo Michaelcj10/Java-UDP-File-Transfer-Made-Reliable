@@ -1,5 +1,5 @@
 # Java-UDP-File-Transfer-Made-Reliable
-Project spec was to create an app that could transfer a file from client to server using UPD. The catch was to make it reliable. This required emulating TCP with UDP by adding sequence numbers to the datagrams and simulating the 3 way handshake.
+Project spec was to create an app that could transfer a file from client to server using UDP. The catch was to make it reliable. This required emulating TCP with UDP by adding sequence numbers to the datagrams and simulating the 3 way handshake.
 
 To run;
 
